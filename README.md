@@ -4,6 +4,8 @@ SimpleTweet is an android app that allows a user to view his Twitter timeline. T
 
 Time spent: 4 hours spent in total
 
+Submitted By : Irene Ninan 
+
 ## User Stories
 
 The following **required** functionality is completed:
